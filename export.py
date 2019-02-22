@@ -9,7 +9,7 @@ import urllib
 import os 
 
 export = "|序号|图片|标题|单词数量|文件大小|背诵人数|下载地址|id|标签|\n";
-export = export + "|---|---|---|---|---|---|---|---|\n";
+export = export + "|---|---|---|---|---|---|---|---|---|\n";
 
 def getTag( tag ):
 	result = [];

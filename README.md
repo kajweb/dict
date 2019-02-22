@@ -10,7 +10,7 @@ Crawl from "X道背单词"(app)
 ## ⌛ 目录
 
 |序号|图片|标题|单词数量|文件大小|背诵人数|下载地址|id|标签|
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|
 |1|![四级真题核心词（图片记忆）](https://nos.netease.com/ydschool-online/1496632727200CET4luan_1.jpg)|四级真题核心词（图片记忆）|1162|788457|875260|[本地地址](book/1523620217431_CET4luan_1.zip) [原始地址](http://ydschool-online.nos.netease.com/1523620217431_CET4luan_1.zip)|CET4luan_1|四级、有道|
 |2|![六级真题核心词（图片记忆）](https://nos.netease.com/ydschool-online/1496655382926CET6luan_1.jpg)|六级真题核心词（图片记忆）|1228|591417|218418|[本地地址](book/1521164660466_CET6luan_1.zip) [原始地址](http://ydschool-online.nos.netease.com/1521164660466_CET6luan_1.zip)|CET6luan_1|六级、有道|
 |3|![考研必考词汇](https://nos.netease.com/ydschool-online/1496632762670KaoYanluan_1.jpg)|考研必考词汇|1341|771889|252505|[本地地址](book/1521164661106_KaoYanluan_1.zip) [原始地址](http://ydschool-online.nos.netease.com/1521164661106_KaoYanluan_1.zip)|KaoYanluan_1|考研、有道|
