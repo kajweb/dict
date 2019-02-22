@@ -91,3 +91,6 @@ Crawl from "X道背单词"(app)
 |79|![北师大版高中选修九](https://nos.netease.com/ydschool-online/reciteWord_BeiShiGaoZhong_9.jpg)|北师大版高中选修九|299|122391|493|[本地地址](book/reciteWord_BeiShiGaoZhong_9.zip) [原始地址](http://ydschool-online.nos.netease.com/reciteWord_BeiShiGaoZhong_9.zip)|BeiShiGaoZhong_9|北师版|
 |80|![北师大版高中选修十](https://nos.netease.com/ydschool-online/reciteWord_BeiShiGaoZhong_10.jpg)|北师大版高中选修十|267|108057|485|[本地地址](book/reciteWord_BeiShiGaoZhong_10.zip) [原始地址](http://ydschool-online.nos.netease.com/reciteWord_BeiShiGaoZhong_10.zip)|BeiShiGaoZhong_10|北师版|
 |81|![北师大版高中选修十一](https://nos.netease.com/ydschool-online/reciteWord_BeiShiGaoZhong_11.jpg)|北师大版高中选修十一|330|139130|739|[本地地址](book/reciteWord_BeiShiGaoZhong_11.zip) [原始地址](http://ydschool-online.nos.netease.com/reciteWord_BeiShiGaoZhong_11.zip)|BeiShiGaoZhong_11|北师版|
+
+# 致谢
+感谢有道团队以及考神团队为中国教育与中外交流做出的重要贡献。
