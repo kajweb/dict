@@ -2,7 +2,7 @@
 Crawl from "X道背单词(app)"
 
 ## 📃 使用说明
-[使用方法](https://github.com/kajweb/dict/wiki/使用方法) 
+[使用方法](https://github.com/kajweb/dict/wiki/使用方法)  
 自己先写脚本按行读取预处理一遍。先把自己需要的内容写进数据库，再从数据库获取。 
 
 ## ⚡ 声明
