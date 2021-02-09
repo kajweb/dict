@@ -200,6 +200,16 @@ def replaceFran(str):
 }
 ```
 
+## 🎙 发音请求
+
+有道英语发音接口
+
+```
+https://dict.youdao.com/dictvoice?audio={word}&type={1|2}
+```
+
+type 1 为英音 2 为美音
+
 ## ⚡ 声明
 
 若本应用侵犯了您的权益，或造成不利影响，请联系 lyy@iwwee.com 并提供微信号码，在确认身份后我将立即下架本应用。
