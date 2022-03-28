@@ -1,0 +1,104 @@
+first floor	 一楼（美）；二楼（英）
+second floor	 二楼
+teacher's office	 教师办公室
+library	 图书馆
+playground	 操场
+computer room	 计算机房
+art room	 美术教室
+music room	 音乐教室
+next to	 紧邻
+homework	 作业
+class	 班级
+forty	 四十
+way	 方向
+breakfast	 早餐
+English class	 英语课
+lunch	 午饭
+music class	 音乐课
+PE class	 体育课
+dinner	 正餐
+get up	 起床
+go to school	 上学
+go home	 回家
+go to bed	 去睡觉
+over	 结束
+now	 现在
+o'clock	 ⋯⋯点钟
+kid	 小孩
+thirty	 三十
+hurry up	 快点
+come on	 加油
+just a minute	 稍等一会儿
+cold	 冷的
+cool	 凉的
+warm	 温暖的
+hot	 热的
+sunny	 阳光充足的
+windy	 多风的
+cloudy	 多云的
+snowy	 下雪的
+rainy	 阴雨的
+outside	 在户外
+be careful	 小心
+weather	 天气
+New York	 纽约
+how about...	 怎么样？
+degree	 度
+world	 世界
+London	 伦敦
+Moscow	 莫斯科
+Singapore	 新加坡城
+Sydney	 悉尼
+fly	 放（风筝）
+love	 爱你的
+tomato	 西红柿
+potato	 马铃薯
+green beans	 豆角
+carrot	 胡萝卜
+horse	 马
+cow	 牛
+sheep	 绵羊
+hen	 母鸡
+these	 这些
+yum	 味道好
+animal	 动物
+those	 那些
+garden	 花园
+farm	 农场
+goat	 山羊
+eat	 吃
+clothes	 服装
+pants	 裤子
+hat	 帽子
+dress	 连衣裙
+skirt	 女裙
+coat	 大衣
+sweater	 毛衣
+sock	 短袜
+shorts	 短裤
+jacket	 夹克衫
+shirt	 衬衫
+yours	 你的
+whose	 谁的
+mine	 我的
+pack	 收拾
+wait	 等待
+glove	 手套
+scarf	 围巾
+umbrella	 伞
+sunglasses	 太阳镜
+pretty	 美丽的
+expensive	 贵的
+cheap	 便宜的
+nice	 好的
+try on	 试穿
+size	 尺码
+of course	 当然
+too	 太
+just	 正好
+how much	 多少钱
+eighty	 八十
+dollar	 元
+sale	 特价销售
+more	 更多的
+us	 我们

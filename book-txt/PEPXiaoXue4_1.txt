@@ -1,0 +1,84 @@
+classroom	 教室
+window	 窗户
+blackboard	 黑板
+light	 电灯
+picture	 图画
+door	 门
+teacher's desk	 讲台
+computer	 计算机
+fan	 风扇
+wall	 墙壁
+floor	 地板
+really	 真的
+near	 距离近
+TV	 电视
+clean	 打扫
+help	 帮助
+schoolbag	 书包
+maths book	 数学书
+English book	 英语书
+Chinese book	 语文书
+storybook	 故事书
+candy	 糖果
+notebook	 笔记本
+toy	 玩具
+key	 钥匙
+wow	 呀
+lost	 丢失
+so much	 非常地
+cute	 可爱的
+strong	 强壮的
+friendly	 友好的
+quiet	 安静的
+hair	 头发
+shoe	 鞋
+glasses	 眼镜
+his	 他的
+or	 或者
+right	 对的
+hat	 帽子
+her	 她的
+bedroom	 卧室
+living room	 客厅
+study	 书房
+kitchen	 厨房
+bathroom	 浴室
+bed	 床
+phone	 电话
+table	 桌子
+sofa	 长沙发
+fridge	 冰箱
+find	 找到
+them	 他们
+beef	 牛肉
+chicken	 鸡肉
+noodles	 面条
+soup	 汤
+vegetable	 蔬菜
+chopsticks	 筷子
+bowl	 碗
+fork	 餐叉
+knife	 刀
+spoon	 匙,勺子
+dinner	 正餐
+ready	 准备好
+help yourself	 为（自己）取用
+pass	 给
+try	 试
+parents	 父母
+cousin	 同辈表亲
+uncle	 叔叔
+aunt	 阿姨
+baby brother	 小弟弟
+doctor	 医生
+cook	 厨师
+driver	 司机
+farmer	 农民
+nurse	 护士
+people	 人们
+but	 但是
+little	 小的
+puppy	 小狗
+football player	 足球运动员
+job	 工作
+basketball	 篮球

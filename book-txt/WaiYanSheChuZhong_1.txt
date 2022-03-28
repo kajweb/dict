@@ -1,0 +1,629 @@
+hello	 int. 你好，喂
+class	 n. 同学；班级
+my	 pron. 我的
+name	 n. 名字
+is	 v. 是（动词be的第三人称单数现在式）
+Miss	 n. 小姐（对未婚女性的称呼）；老师
+good	 adj. 好的
+morning	 n. 早晨，上午
+good morning	 早上好
+afternoon	 n. 下午
+good afternoon	 下午好
+goodbye	 int. 再见
+I	 pron. 我
+am	 v. 是（动词be的第一人称单数现在式）
+I'm = I am	 我是
+Mr	 n. 先生
+what	 pron. 什么
+your	 pron. 你的，你们的
+please	 int. 请
+sorry	 adj. 对不起的，抱歉的
+can	 v aux. 能，能够
+you	 pron. 你，你们
+spell	 v. 拼写
+it	 pron. 它
+yes	 adv. 是，是的
+thank	 v. 谢谢
+how	 adv. 怎样，如何
+are	 v. 是（动词be的复数和第二人称单数现在式）
+fine	 adj. 很好的，不错的
+thanks	 int. 谢谢
+Mrs	 n. 夫人，太太
+too	 adv. 也，还
+this	 pron. 这，这个（指较近的人或事物）
+she	 pron. 她
+teacher	 n. 老师
+friend	 n. 朋友
+her	 pron. 她的
+his	 pron. 他的
+nice	 adj. 美好的，令人愉快的
+to	 （与原形动词一起构成动词不定式）
+meet	 v. 遇见，结识
+time	 n. 时间
+go	 v. 走；去
+now	 adv. 现在，目前
+bye	 int. 再见
+see	 v. 看见
+tomorrow	 n. 明天
+sit	 v. 坐
+down	 adv. 向下地 prep. 向下
+sit down	 坐下
+open	 v. （打）开
+book	 n. 书
+listen	 v. 听，倾听
+draw	 v. 绘画，画
+put	 v. 放；置
+up	 adv. 向上地 prep. 朝上；向上
+hand	 n. 手
+stand	 v. 站立
+stand up	 起立
+close	 v. 合上；关闭
+new	 adj. 新的
+student	 n. 学生
+here	 adv. 这里，在这里
+in	 prep. 在⋯⋯里面
+one	 num. 一
+two	 num. 二
+three	 num. 三
+four	 num. 四
+five	 num. 五
+six	 num. 六
+seven	 num. 七
+eight	 num. 八
+nine	 num. 九
+ten	 num. 十
+telephone	 n. 电话
+number	 n. 号码
+old	 adj. ⋯⋯年龄的，⋯⋯岁的
+how old	 多大，几岁
+twelve	 num. 十二
+eleven	 num. 十一
+thirteen	 num. 十三
+fourteen	 num. 十四
+fifteen	 num. 十五
+sixteen	 num. 十六
+seventeen	 num. 十七
+eighteen	 num. 十八
+nineteen	 num. 十九
+twenty	 num. 二十
+boy	 n. 男孩
+girl	 n. 女孩
+desk	 n. 桌子
+chair	 n. 椅子
+bag	 n. 包，书包
+In	 prep. 使用（某种语言）
+English	 n. 英语 adj. 来自英格兰的
+in English	 用英语
+a	 art. 一（个，件⋯⋯）
+write	 v. 写
+on	 prep. 在⋯⋯上
+the	 art. （指已经谈到或正在谈到的事物）
+blackboard	 n. 黑板
+OK	 int. 行，好（用于表示同意、赞成或理解）
+pen	 n. 笔，钢笔
+no	 adv. 不，不是；没有（用于表示否定的回答）
+pencil	 n. 铅笔
+do	 v aux. （用于构成疑问句和否定句）
+bird	 n. 鸟
+cat	 n. 猫
+dog	 n. 狗
+flower	 n. 花
+help	 v. 帮助
+me	 pron. （宾格）我
+of	 prep. ⋯⋯的
+course	 adv. 当然
+of course	 是的，当然
+classroom	 n. 教室
+know	 v. 知道，懂得
+say	 v. 说；讲
+that	 pron. 那，那个（指较远的人或事物）
+again	 adv. 再（次），又（一次）
+welcome	 adj. 受欢迎的 int. 欢迎（迎接某人到某地时的用语）
+You're welcome.	 不用谢，别客气。
+black	 adj. 黑色的
+white	 adj. 白色的
+blue	 adj. 蓝色的
+green	 adj. 绿色的
+yellow	 adj. 黄色的
+red	 adj. 红色的
+brown	 adj. 棕色的
+orange	 adj. 橘黄色的 n. 柑橘；橙
+colour (AmE color)	 n. 颜色
+and	 conj. 和，与
+day	 n. 一天
+today	 n. 今天
+Monday	 n. 星期一
+Tuesday	 n. 星期二
+Wednesday	 n. 星期三
+Thursday	 n. 星期四
+Friday	 n. 星期五
+Saturday	 n. 星期六
+Sunday	 n. 星期天
+birthday	 n. 生日
+favourite (AmE favorite)	 adj. 最喜爱的
+spring	 n. 春天
+summer	 n. 夏天
+autumn	 n. 秋天
+winter	 n. 冬天
+warm	 adj. 暖和的，温暖的
+hot	 adj. 热的
+cool	 adj. 凉快的
+cold	 adj. 冷的
+weather	 n. 天气
+like	 prep. 如同，像
+London	 伦敦
+basketball	 n. 篮球
+football	 n. 足球
+swimming	 n. 游泳
+table tennis	 乒乓球
+sport	 n. 运动
+let	 v. 让，使
+us	 pron. （宾格）我们
+let's = let us	 让我们
+play	 v. 参加（体育运动或球赛）；玩耍
+after	 prep. 在⋯⋯后
+school	 n. 学校
+idea	 n. 想法，主意
+Chinese	 n. 中国人；汉语 adj. 中国的，中国人的
+from	 prep. 从⋯⋯来，来自
+where	 adv. 在哪里，去哪里
+year	 n. 年龄；年
+about	 prep. 关于
+What about ⋯?	 ⋯⋯怎么样？
+Ms	 n. 女士
+America	 美国；美洲
+not	 adv. 不，不是，没有
+England	 英格兰
+hi	 int. 嘿，喂
+American	 n. 美国人；美洲人
+adj.	 美国的；美国人的；美洲的
+our	 pron. 我们的
+grade	 n. 年级
+he	 pron. 他
+China	 中国
+everyone	 pron. 大家；每人
+capital	 n. 首都；省会
+but	 conj. 但是，然而
+very	 adv. 很，非常
+big	 adj. 大的
+city	 n. 城市
+small	 adj. 小的
+first	 adj. 第一（位）的，首要的 adv. 先；首先
+first name	 名字
+last	 adj. 最后的，最末的 adv. 最后，最末
+last name	 姓
+all	 pron. 每个，全体
+aunt	 n. 姨母；伯母；婶母；舅母；姑母
+brother	 n. 兄弟
+cousin	 n. 堂兄弟；表兄弟；堂姐妹；表姐妹
+daughter	 n. 女儿
+family	 n. 家，家庭
+father	 n. 父亲，爸爸
+grandfather	 n. （外）祖父
+grandmother	 n. （外）祖母
+grandparent	 n. （外）祖父母
+mother	 n. 母亲，妈妈
+parent	 n. 母亲；父亲
+sister	 n. 姐；妹
+son	 n. 儿子
+uncle	 n. 叔叔；伯伯；舅舅；姑父；姨夫
+photo (= photograph)	 n. 照片，相片
+these	 pron. 这些
+they	 pron. 他们，她们，它们
+mum	 n. 妈妈
+left	 n. 左边，左侧 adj. 左边的，左侧的
+on the left	 在左边，在左侧
+dad	 n. 爸爸
+right	 n. 右边，右侧 adj. 右边的，右侧的
+on the right	 在右边，在右侧
+who	 pron. 谁
+woman	 n. 成年女子；妇女 (pl. women)
+next	 adj. 紧挨着，紧靠着 adv. 紧接下来地，下一步
+next to	 在⋯⋯旁边，紧挨着
+husband	 n. 丈夫
+front	 n. 前面；正面
+in front of	 在⋯⋯的前面
+those	 pron. 那些
+bus	 n. 公共汽车
+station	 n. 站；车站
+hospital	 n. 医院
+hotel	 n. 饭店；宾馆
+police	 n. 警察
+theatre (AmE theater)	 n. 剧院
+actor	 n. （男）演员
+driver	 n. 司机，驾驶员
+manager	 n. 经理
+nurse	 n. 护士
+policeman	 n. 男警察 (pl. policemen)
+we	 pron. 我们
+an	 art. 一（个，件⋯⋯）
+job	 n. 工作
+at	 prep. 在⋯⋯；在⋯⋯里
+same	 adj. 相同的，同一的
+doctor	 n. 医生
+farm	 n. 农场
+worker	 n. 工人
+man	 n. 男人 (pl. men)
+shop	 n. 商店
+its	 pron. 它的
+their	 pron. 他们的，她们的，它们的
+computer	 n. 计算机；电脑
+furniture	 n. 家具（总称）
+map	 n. 地图
+picture	 n. 图片；照片
+television (= TV)	 n. 电视；电视机
+wall	 n. 墙
+thirty	 num. 三十
+forty	 num. 四十
+fifty	 num. 五十
+sixty	 num. 六十
+seventy	 num. 七十
+eighty	 num. 八十
+ninety	 num. 九十
+really	 adv. 真正地；非常，很
+many	 adj. 许多，很多
+how many	 多少
+there	 pron. （用于引导句子的主语）
+lot	 n. 大量；许多
+a lot of	 大量；许多
+oh	 int. 唉，噢
+any	 adj. 任何一个；一些 pron. 任何一个；一些
+world	 n. 世界
+tree	 n. 树（木）
+building	 n. 建筑物
+hall	 n. 大厅；会堂
+dining hall	 饭厅，饭堂
+gate	 n. 大门
+library	 n. 图书馆
+office	 n. 办公室
+playground	 n. 操场
+science	 n. 科学；科学课
+lab (= laboratory)	 n. 实验室
+behind	 prep. 在⋯⋯后面
+between	 prep. 在⋯⋯之间
+middle	 n. 中间；中央
+near	 prep. 靠近；接近
+with	 prep. 与⋯⋯在一起；和；具有（品质、特征）
+for	 prep. 为，为了
+room	 n. 房间；室；屋子
+food	 n. 食物，食品
+drink	 n. 饮料 v. 喝
+candy	 n. 糖果
+fruit	 n. 水果
+meat	 n. 肉
+vegetable	 n. 蔬菜
+apple	 n. 苹果
+bean	 n. 豆
+beef	 n. 牛肉
+carrot	 n. 胡萝卜
+chicken	 n. 鸡肉
+chocolate	 n. 巧克力
+coffee	 n. 咖啡
+cola	 n. 可乐
+juice	 n. 果汁
+milk	 n. 牛奶
+potato	 n. 马铃薯，土豆
+tea	 n. 茶
+tomato	 n. 西红柿，番茄
+water	 n. 水
+Shop	 v. 逛商店；购物
+go shopping	 去买东西，去购物
+have	 v aux. （助动词） v. 有；吃，喝
+get	 v. 得到
+have got	 有；拥有
+some	 adj. 若干，一些；少量的 pron. 一些，某些
+much	 adj. 许多的，大量的
+too much	 太多
+kind	 n. 种类
+lots of	 大量；许多
+so	 conj. 因此；所以
+How about ⋯?	 （征求意见）⋯⋯好吗？⋯⋯行吗？
+has	 （have的第三人称单数现在式）
+bad	 adj. 坏的；不好的
+healthy	 adj. 健康的
+delicious	 adj. 美味的
+bread	 n. 面包
+fish	 n. 鱼肉；鱼
+hamburger	 n. 汉堡包
+ice cream	 n. 冰激凌
+noodle	 n. 面条
+rice	 n. 米；米饭
+sugar	 n. 糖
+eat	 v. 吃
+child	 n. （14岁以下的）小孩，儿童 (pl. children)
+be good for	 对⋯⋯有帮助的
+sweet	 adj. 甜的
+be bad for	 对⋯⋯有害的
+Right	 adj. 正确的，对的
+egg	 n. 蛋；鸡蛋
+eye	 n. 眼睛
+cheese	 n. 奶酪
+tooth	 n. 牙齿 (pl. teeth)
+bit	 n. 一点儿；少许
+a bit	 稍微；有点儿
+tired	 adj. 劳累的
+soup	 n. 汤
+important	 adj. 重要的
+remember	 v. 记住；想起
+well	 adv. 好地
+stay	 v. 保持；停留
+fat	 adj. 肥胖的
+get fat	 发胖
+or	 conj. 或者
+breakfast	 n. 早饭
+every	 adj. 每个，每一
+lunch	 n. 午饭
+home	 n. 家；家庭
+dinner	 n. 晚饭；正餐
+banana	 n. 香蕉
+buy	 v. 买
+half	 n. 一半
+past	 prep. 晚于，过（几点）
+o'clock	 adv. ⋯⋯点钟
+To	 prep. （距整点时间）差⋯⋯
+art	 n. 美术；艺术
+geography	 n. 地理
+history	 n. 历史
+IT	 n. 信息技术
+maths (AmE math)	 n. 数学
+PE (= physical education)	 n. 体育；体育课
+lesson	 n. （一节）课
+then	 adv. 接着，然后
+Like	 v. 喜欢；喜爱
+difficult	 adj. 困难的，难懂的
+love	 v. 爱；热爱 n. 喜爱；关爱
+subject	 n. 科目
+because	 conj. 因为
+interesting	 adj. 有趣的
+talk	 v. 谈论，说话
+begin	 v. 开始
+when	 adv. 什么时候，何时
+go to school	 上学
+weekday	 n. 工作日
+get up	 起床
+have breakfast	 吃早餐
+house	 n. 房子；住宅
+start	 v. 开始
+work	 n. 学习；工作 v. 学习；工作
+break	 n. （课间）休息
+have lunch	 吃午餐
+go home	 回家
+evening	 n. 晚上
+watch	 v. 看，观看
+have dinner	 吃饭；吃晚餐
+Do	 v. 做；干
+homework	 n. 家庭作业
+bed	 n. 床
+go to bed	 上床睡觉
+sleep	 n. 睡觉 v. 睡觉
+go to sleep	 开始睡觉；入睡
+park	 n. 公园
+busy	 adj. 忙的；繁忙的
+wash	 v. 洗；洗涤
+face	 n. 脸
+minute	 n. 分钟
+grandma	 n. （外）祖母
+grandpa	 n. （外）祖父
+him	 pron. （宾格）他
+want	 v. 想要；需要
+make	 v. 做，制作
+kitchen	 n. 厨房
+farmer	 n. 农民
+week	 n. 星期
+read	 v. 阅读；看懂
+story	 n. 故事
+live	 v. 生活；住
+bear	 n. 熊
+elephant	 n. 大象
+giraffe	 n. 长颈鹿
+lion	 n. 狮子
+monkey	 n. 猴子
+panda	 n. 熊猫
+tiger	 n. 老虎
+zebra	 n. 斑马
+zoo	 n. 动物园
+guide	 n. 导游
+animal	 n. 动物
+such	 adj. 这样的；如此的
+as	 prep. 像⋯⋯一样
+such as	 比如
+come	 v. 来
+come from	 来自
+different	 adj. 不同的
+country	 n. 国家
+other	 adj. 其他的
+dangerous	 adj. 危险的
+ugh	 int. 啊，哎呀
+also	 adv. 也；而且
+plant	 n. 植物
+look	 v. 看，瞧
+look at	 看
+tall	 adj. 高的
+sure	 adv. 的确，当然
+bamboo	 n. 竹子
+cute	 adj. 可爱的
+shall	 v aux. ⋯⋯好吗？要不要⋯⋯？
+them	 pron. （宾格）他们，她们，它们
+which	 pron. 哪一个
+over	 prep. 在⋯⋯的上方
+There	 adv. 在那里，往那里
+over there	 在那边，在那里
+funny	 adj. 有趣的
+call	 v. 把⋯⋯叫做；称呼⋯⋯为
+Africa	 非洲
+Asia	 亚洲
+Europe	 欧洲
+little	 adj. 极少量的
+a little	 少量
+only	 adv. 仅仅；只
+About	 adv. 大约，大致
+kilo (= kilogram)	 n. 千克；公斤
+as well as	 并且，还
+people	 n. 人，人们
+all over the world	 全世界
+African	 adj. 非洲的 n. 非洲人
+leaf	 n. 叶子 (pl. leaves)
+grass	 n. 草
+large	 adj. 大的，巨大的
+usually	 adv. 通常
+alone	 adv. 独自地
+be good at	 擅长
+strong	 adj. 强壮的；强大的；强烈的
+catch	 v. 抓住；接住
+many kinds of	 许多种类
+even	 adv. 甚至
+keyboard	 n. 键盘
+mouse	 n. 鼠标；老鼠 (pl. mice)
+screen	 n. 屏幕
+connect	 v. 连接
+turn	 v. 转动
+turn on	 打开
+learn	 v. 学；学习
+document	 n. 文件
+click	 v. 点击
+use	 v. 使用
+save	 v. 保存；储存
+box	 n. （计算机屏幕上的）框；盒子
+finally	 adv. 最后
+print	 v. 打印
+paper	 n. 纸
+share	 v. 共用；分享
+Australia	 澳大利亚
+company	 n. 公司；剧团
+often	 adv. 经常
+customer	 n. 顾客
+Internet	 n. 因特网
+check	 v. 检查；查看
+train	 n. 火车
+travel	 n. 旅行
+plan	 n. 计划 v. 计划；打算
+ticket	 n. 票
+music	 n. 音乐
+movie	 n. 电影
+night	 n. 夜晚
+search	 v. 搜寻；搜索；查找
+search for	 搜寻；查找
+information	 n. 信息
+email	 n. 电子邮件
+send	 v. 发送
+game	 n. 游戏
+sometimes	 adv. 有时候；不时
+cinema	 n. 电影院
+clothes	 n. 衣服（总称）
+visit	 v. 探望；参观
+holiday	 n. 假日；节日
+card	 n. 卡片
+party	 n. 晚会；聚会
+present	 n. 礼物
+would	 v aux. 肯，会；愿意
+always	 adv. 总是；一直
+great	 adj. 太好了；巨大的；超乎寻常的
+cake	 n. 蛋糕
+never	 adv. 从不
+special	 adj. 特别的，特殊的
+cut	 v. 切；剪
+give	 v. 给，送
+sing	 v. 唱，唱歌
+happy	 adj. 高兴的；幸福的
+secret	 n. 秘密
+ha ha	 哈哈（表笑声）
+CD	 n. 激光唱片；光盘
+concert	 n. 音乐会
+magazine	 n. 杂志
+scarf	 n. 围巾
+silk	 n. 丝绸
+dress	 n. 连衣裙；礼服
+T-shirt	 n. T恤衫
+choose	 v. 选择；挑选
+exercise	 n. 锻炼；练习
+wear	 v. 穿；戴
+expensive	 adj. 昂贵的
+shoe	 n. 鞋，鞋子
+spend	 v. 花（钱）；花费
+money	 n. 钱，金钱
+film	 n. 电影
+song	 n. 歌曲
+match	 n. （尤指体育方面的）比赛，竞赛
+weekend	 n. 周末
+at weekends	 在周末
+dear	 adj. （用于信开头某人的名字前）亲爱的
+hear	 v. 听见
+hear from	 收到⋯⋯的来信
+afraid	 adj. 担心的；害怕的
+I'm afraid	 [口] 恐怕（用于礼貌地拒绝）
+can't = cannot	 不能
+postcard	 n. 明信片
+Call	 v. （给⋯⋯）打电话
+lie	 v. 躺；平躺
+sun	 n. 太阳
+line	 n. 行，排，列
+take	 v. 拿，取；花费（时间）
+take photos	 拍照
+wait	 v. 等待，等候
+wait for	 等待，等候
+walk	 v. 行走；步行
+trip	 n. 旅行
+few	 adj. 一些；几个；很少（的）
+a few	 一些；几个
+sale	 n. 卖；出售
+on sale	 正在出售
+enjoy	 v. 享受⋯⋯的乐趣；喜爱
+anyway	 adv. 尽管如此；无论如何
+back	 adv. 向后；回到；返回
+go back	 回去
+drive	 v. 驾驶；驾车
+off	 prep. 下（飞机、火车、公共汽车等）
+get off	 下（飞机、火车、公共汽车等）
+hot dog	 热狗（一种中间夹香肠的三明治）
+leave	 v. 离开
+restaurant	 n. 饭店；餐馆
+moment	 n. （某事发生的）时刻，时候
+place	 n. 地点
+thing	 n. 事情；东西
+most	 adj. 大部分（的）；大多数（的）
+still	 adv. 仍然，依旧
+star	 n. 明星；星；星状物
+run	 v. 跑，奔跑
+study	 v. 学习；研究
+lantern	 n. 灯笼
+dragon	 n. 龙
+dance	 n. 舞蹈 v. 跳舞
+clean	 v. 打扫 adj. 清洁的；干净的
+sweep	 v. 打扫；清扫
+floor	 n. 地板
+cook	 v. 烹调；煮；烧
+meal	 n. 一餐；一顿饭
+speak	 v. 说话，讲话
+happen	 v. 发生
+ready	 adj. 有准备的；准备好的
+get ready for	 为⋯⋯做好准备
+festival	 n. 节日
+quite	 adv. 十分；相当
+at the moment	 此刻，目前
+beautiful	 adj. 漂亮的，美丽的
+at work	 在工作
+away	 adv. 在安全的地方；在通常存放的地方
+put away	 收起；收拾好
+hard	 adv. 努力地 adj. 艰难的；困难的
+join	 v. 参加；加入
+hurry	 v. 赶快；匆忙
+hurry up	 赶快
+Christmas	 n. 圣诞节
+February	 n. 二月
+January	 n. 一月
+before	 prep. 在⋯⋯之前
+sweep away	 扫去
+luck	 n. 运气
+table	 n. 桌子
+celebrate	 v. 庆祝
+traditional	 adj. 传统的
+dumpling	 n. 饺子；团子
+programme (AmE program)	 n. （电视）节目
+sweater	 n. 厚运动衫；毛线衣
+coat	 n. 外套
+mean	 v. 意思是；意味着
+lucky	 adj. 幸运的
+merry	 adj. 愉快的，高兴的
+Merry Christmas	 圣诞快乐
+tell	 v. 讲；告诉
+think	 v. 想，认为

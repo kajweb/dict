@@ -1,0 +1,131 @@
+old	 老的
+young	 年轻的
+funny	 滑稽的
+kind	 体贴的
+strict	 严厉的
+polite	 有礼貌的
+hard-working	 努力的
+helpful	 有用的
+clever	 聪明的
+shy	 羞怯的
+know	 知道
+our	 我们的
+Ms	 女士
+will	 将要
+sometimes	 有时
+robot	 机器人
+him	 他
+speak	 会说
+finish	 完成
+Monday	 星期一
+Tuesday	 星期二
+Wednesday	 星期三
+Thursday	 星期四
+Friday	 星期五
+Saturday	 星期六
+Sunday	 星期日
+weekend	 周末
+wash	 洗
+wash my clothes	 洗我的衣服
+watch	 看
+watch TV	 看电视
+do	 做
+do homework	 做作业
+read	 看
+read books	 看书
+play	 玩
+play football	 踢足球
+cooking	 烹饪
+often	 时常
+park	 公园
+tired	 疲倦的
+sport	 体育运动
+play sports	 做体育运动
+should	 应该
+every	 每一个
+day	 一天
+schedule	 工作计划
+sandwich	 三明治
+salad	 沙拉
+hamburger	 汉堡包
+ice cream	 冰淇淋
+tea	 茶
+fresh	 新鲜的
+healthy	 健康的
+delicious	 美味的
+hot	 辣的
+sweet	 甜的
+drink	 喝
+thirsty	 渴的
+favourite	 特别喜欢的
+food	 食物
+Dear	 亲爱的
+onion	 洋葱
+sing	 唱
+song	 歌曲
+sing English songs	 唱英文歌曲
+play the pipa	 弹琵琶
+kung fu	 功夫
+do kung fu	 练武术
+dance	 跳舞
+draw	 画
+cartoon	 漫画
+draw cartoons	 画漫画
+cook	 烹饪
+swim	 游泳
+play basketball	 打篮球
+ping-pong	 乒乓球
+play ping-pong	 打乒乓球
+speak English	 说英语
+we'll	 我们将……（=we will）
+party	 聚会
+next	 下一个的
+wonderful	 极好的
+learn	 学习
+any	 任何的
+problem	 没问题
+no problem	 没问题
+want	 要
+send	 邮寄
+email	 电子邮件
+at	 （接邮件地址）
+clock	 时钟
+plant	 植物
+bottle	 瓶子
+water bottle	 水瓶
+bike	 自行车
+photo	 照片
+front	 正面
+in front of	 在⋯⋯前面
+between	 在⋯⋯中间
+above	 在⋯⋯上面
+beside	 在旁边
+behind	 在⋯⋯后面
+there	 （存在或发生）
+grandparent	 （外）祖父母
+their	 他们的
+house	 房子
+lot	 大量
+lots of	 大量
+flower	 花
+move	 搬家
+dirty	 肮脏的
+everywhere	 处处
+mouse	 老鼠
+live	 住
+nature	 自然界
+forest	 森林
+river	 河
+lake	 湖
+mountain	 山
+hill	 小山
+tree	 树
+bridge	 桥
+building	 建筑
+village	 村庄
+house.	 房屋
+boating	 划船
+go boating	 去划船
+aren't	 不是（= are not）
+rabbit	 兔
+high	 高的
